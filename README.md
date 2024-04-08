@@ -117,7 +117,6 @@
 ### 1.4.2 사용자 입력을 위한 input 태그
 
 - input 태그의 type 속성
-
   - text: 한 줄 짜리 텍스트, 텍스트 박스
   - password: 비밀번호 필드
   - search: 검색
